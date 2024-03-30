@@ -9,26 +9,14 @@ To run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 git clone https://github.com/your-username/mart-app.git
 
-css
-Copy code
-
 2. Navigate to the project directory:
 cd mart-app
-
-markdown
-Copy code
 
 3. Install dependencies:
 npm install
 
-markdown
-Copy code
-
 4. Start the development server:
 npm start
-
-csharp
-Copy code
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
@@ -56,7 +44,6 @@ mart-app/
 ├── package.json
 └── README.md
 
-markdown
 Copy code
 
 ## Modifications
