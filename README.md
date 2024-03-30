@@ -1,4 +1,4 @@
-# Mart App
+# Martify
 
 This project is a simple mart app built using React and Redux. It allows users to view products and add them to a shopping cart.
 
